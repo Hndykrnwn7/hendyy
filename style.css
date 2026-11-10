@@ -7,10 +7,10 @@ body {
 
 .kartu-profil {
     witdth: 300px;
-    margin: 50px auto; / *50px jarak/atasbawah, auto menengahkan kiri/kanan */
+    margin: 50px auto; /* 50px jarak/atasbawah, auto menengahkan kiri/kanan */
     paddiing: 20px;
     background-color: black;
-    border-radius: 15px; /*membuat sudut menjadi melengkung */
+    border-radius: 15px; /* membuat sudut menjadi melengkung */
     box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
 { 
 
