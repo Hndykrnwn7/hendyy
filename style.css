@@ -1,23 +1,23 @@
-color: #191970;
-}
 body {
-    background-color: #FFFFE0; 
+    background-color: #819ese; 
     font-famly: Arial, sans-serif;
-    
+    color: #4b6347; /* warna teks utama */
+    text-align: center; /* menengahkan semua teks di dalam kartu */
+}
+
 .kartu-profil {
     witdth: 300px;
-    margin: 50px auto;
-    padding: 20px;
+    margin: 50px auto; / *50px jarak/atasbawah, auto menengahkan kiri/kanan */
+    paddiing: 20px;
     background-color: white;
-    border-radius: 15px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    teks-align: center;
+    border-radius: 15px; /*membuat sudut menjadi melengkung */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
 { 
 
 
 .kartu-profil img {
     width: 150px;
-    border-radius: 50%;
+    border-radius: 50%; /* trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
 .kartu-profil {
     width: 150px;
